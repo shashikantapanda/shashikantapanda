@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shashikantapanda
 - 👀 I’m interested in developing .
-- 🌱 I’m currently learning python & javascript
+- 🌱 I’m proficient in sql.python and excel
 
 
 <!---
