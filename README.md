@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @shashikantapanda
-- 👀 I’m interested in developing .
-- 🌱 I’m proficient in sql.python and excel
+-  Hi, I’m @shashikantapanda
+-  I’m interested in Analysing Datasets .
+-  I give life to Meaningless data .
+-  I’m proficient in sql.python and excel
 
 
 <!---
