@@ -1,16 +1,12 @@
 -  Hi, I’m @shashikantapanda
--  I’m interested in Analysing Datasets .
+-  An enthusiastic Data Analyst .
 -  I give life to Meaningless data .
+-  I tell stories from data .
 -  🌟 Here's a glimpse of my skills:
 ✅ SQL
+✅ Python & Machine Learning
 ✅ Advanced Excel
-✅ Translating business requirements into meaningful insights with data modeling
-✅ Creating interactive visual reports & dashboards using Power BI
-✅ Analyzing & presenting data for informed decision-making
-✅ Documenting algorithms, parameters, models, & relations
-✅ Performing DAX queries & functions in Power BI
-✅ Utilizing SQL querying, filters, & graphs for data analysis
-✅ Leading teams in challenging situation
+✅ Power BI
 
 I appreciate your time & consideration in reviewing my profile
 
