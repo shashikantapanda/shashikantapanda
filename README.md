@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shashikanta Panda</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right" alt="analyst" widht="400" src="[https://www.bing.com/images/search?view=detailV2&ccid=FnEGiXoc&id=E6CEACE259521C92D72BD2D3DC50BDAF86A6A2F4&thid=OIP.FnEGiXocfjzsb5gcu0gfQgHaFj&mediaurl=https%3a%2f%2fi.pinimg.com%2foriginals%2ffc%2f71%2f63%2ffc71635c7f1b09ed30413f59bb749582.gif&exph=600&expw=800&q=animated+data+analyst+gif&simid=608040131399520394&FORM=IRPRST&ck=7D1483EA8E51BBDE9EA012E3FA318FAC&selectedIndex=1&itb=0](https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif)">
+<img align="right" alt="analyst" width="400" src="C:\Users\User\Desktop\ME\1_g__jiesLRIfCRefVG69Pfw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashikantapanda&label=Profile%20views&color=0e75b6&style=flat" alt="shashikantapanda" /> </p>
 
